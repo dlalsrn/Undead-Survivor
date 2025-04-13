@@ -1,4 +1,4 @@
-# Bullet Rush
+# Undead Survivor
 ![image](https://github.com/user-attachments/assets/8599f608-62cf-4b02-a67b-97934e6805f6)
 <br><br/>
 

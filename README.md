@@ -51,5 +51,10 @@ https://velog.io/@lmg0052/series/Unity2D-Undead-Survivor
 - **게임 플레이 영상 링크**: https://www.youtube.com/watch?v=4XnS3w0Kip4
 <br><br/>
 
+## 참고
+해당 프로젝트는 골드메탈님의 강의 영상을 참고하여 진행했음을 알립니다.
+
+https://www.youtube.com/watch?v=MmW166cHj54&list=PLO-mt5Iu5TeZF8xMHqtT_DhAPKmjF6i3x
+
 ## 연락처
 - **E-Mail**: qazzaq1541@gmail.com
